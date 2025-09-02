@@ -8,7 +8,8 @@
 
   - [CompTIA CySA+](https://partners.comptia.org/certifications/cybersecurity-analyst)
   - [CompTIA PenTest+](https://partners.comptia.org/certifications/pentest)
-
+  - [ISC2 Certified in Cybersecurity](https://www.isc2.org/certifications/cc#train)
+    
 <h2> 🤳🏾 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
