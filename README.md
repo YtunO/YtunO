@@ -1,12 +1,15 @@
 <h1>Hi, I'm Yetunde! <br/>  <a> Aspiring Cybersecurity Professional</a>
+
+<h2> ⚠️ Vulnerability Management Projects:</h2>
     
-<h2>👩🏾‍💻 IT Projects:</h2>
+<h2> 💻 IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/YtunO/ActiveDirectoryLab.git)
   - [IT Help Desk Ticketing Lab](https://github.com/YtunO/ITHelpDeskTicketingLab)
     
 <h2> 📄 Certifications:</h2>
 
+  - [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/#overview)
   - [CompTIA CySA+](https://partners.comptia.org/certifications/cybersecurity-analyst)
   - [CompTIA PenTest+](https://partners.comptia.org/certifications/pentest)
   - [ISC2 Certified in Cybersecurity](https://www.isc2.org/certifications/cc#train)
