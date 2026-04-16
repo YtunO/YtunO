@@ -1,11 +1,13 @@
 <h1>Hi, I'm Yetunde! <br/>  <a> Aspiring Cybersecurity Professional</a>
 
 <h2> ⚠️ Vulnerability Management Projects:</h2>
-    
+
+- **[Vulnerability Management Program Implementation](https://github.com/YtunO/vulnerability-management-program)**
+  
 <h2> 💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/YtunO/ActiveDirectoryLab.git)
-  - [IT Help Desk Ticketing Lab](https://github.com/YtunO/ITHelpDeskTicketingLab)
+  - **[Active Directory Home Lab](https://github.com/YtunO/ActiveDirectoryLab.git)**
+  - **[IT Help Desk Ticketing Lab](https://github.com/YtunO/ITHelpDeskTicketingLab)**
     
 <h2> 📄 Certifications:</h2>
 
