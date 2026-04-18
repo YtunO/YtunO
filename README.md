@@ -1,5 +1,7 @@
 <h1>Hi, I'm Yetunde! <br/>  <a> Aspiring Cybersecurity Professional</a>
 
+#### I'm an aspiring cybersecurity professional with a drive to learn and a passion for growing my skills. My hands-on projects ranging from Active Directory to vulnerability management reflect my dedication to breaking into the IT and cybersecurity field. Take a look and see how I'm turning passion into real-world experience.
+
 <h2> ⚠️ Vulnerability Management Projects:</h2>
 
 - **[Vulnerability Management Program Implementation](https://github.com/YtunO/vulnerability-management-program)**
