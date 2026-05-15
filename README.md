@@ -1,6 +1,11 @@
-<h1>Hi, I'm Yetunde! <br/>  <a> Aspiring Cybersecurity Professional</a>
+<img width="900" height="220" alt="yetunde_odunlami_github_banner (1)" src="https://github.com/user-attachments/assets/4631ae2c-d6b9-46cf-bfab-36373841bbb0" />
 
-#### I'm an aspiring cybersecurity professional with a drive to learn and a passion for growing my skills. My hands-on projects ranging from Active Directory to vulnerability management reflect my dedication to breaking into the IT and cybersecurity field. Take a look and see how I'm turning passion into real-world experience.
+####I’m a cybersecurity professional who enjoys solving technical problems and continuously growing my skills. My hands-on projects, ranging from Active Directory to vulnerability management, showcase my dedication to learning, growing, and building experience in IT and cybersecurity. Take a look and see how I’m turning knowledge and passion into practical impact.
+
+
+  <!-- WELCOME LINE -->
+  <text class="tag" x="24" y="207" font-family="monospace" font-size="10" fill="#E8B4BB" opacity="1" letter-spacing="2">
+
 
 <h2> 🚨 Threat Hunting and Security Operations:</h2>
 
