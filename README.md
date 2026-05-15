@@ -1,6 +1,6 @@
 <img width="900" height="220" alt="yetunde_odunlami_github_banner (1)" src="https://github.com/user-attachments/assets/4631ae2c-d6b9-46cf-bfab-36373841bbb0" />
 
-####I’m a cybersecurity professional who enjoys solving technical problems and continuously growing my skills. My hands-on projects, ranging from Active Directory to vulnerability management, showcase my dedication to learning, growing, and building experience in IT and cybersecurity. Take a look and see how I’m turning knowledge and passion into practical impact.
+### I’m a cybersecurity professional who enjoys solving technical problems and continuously growing my skills. My hands-on projects, ranging from Active Directory to vulnerability management, showcase my dedication to learning, growing, and building experience in IT and cybersecurity. Take a look and see how I’m turning knowledge and passion into practical impact.
 
 
   <!-- WELCOME LINE -->
