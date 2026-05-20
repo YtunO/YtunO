@@ -26,13 +26,6 @@
   - [CompTIA CySA+](https://partners.comptia.org/certifications/cybersecurity-analyst)
   - [CompTIA PenTest+](https://partners.comptia.org/certifications/pentest)
   - [ISC2 Certified in Cybersecurity](https://www.isc2.org/certifications/cc#train)
-    
-<h2> 🤳🏾 Connect with me:</h2> 
-
-[<img align="left" alt="LinkedIn" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=white" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/yetundeodunlami/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
