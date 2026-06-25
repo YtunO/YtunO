@@ -22,6 +22,7 @@ I'm a cybersecurity professional who enjoys solving technical problems and conti
 <h4> ⚠️ Vulnerability Management Projects:</h4>
 
 - **[Vulnerability Management Program Implementation](https://github.com/YtunO/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations w/Powershell](https://github.com/YtunO/Programmatic-Vulnerability-Remediations-w-Powershell)**
   
 <h4> 💻 IT Projects:</h4>
 
