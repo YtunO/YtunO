@@ -18,6 +18,7 @@ I'm a cybersecurity professional who enjoys solving technical problems and conti
 <h4> 🚨 Threat Hunting and Security Operations:</h4>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/YtunO/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Northpeak Descent)](https://github.com/YtunO/Threat-Hunt-Report-Northpeak-Descent/tree/main)**
 
 <h4> ⚠️ Vulnerability Management Projects:</h4>
 
